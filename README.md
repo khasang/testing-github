@@ -4,3 +4,5 @@
 **добавили новую фичу test-feature**
 
 and **new feature 2**
+
+**github-flow** feature 1
