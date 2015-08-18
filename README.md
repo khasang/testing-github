@@ -8,6 +8,7 @@ and **new feature 2**
 
 **github-flow** feature 1
 ==
+>>>>>>> master
 Что то крутое 
 
 Вот я что то дописал 
@@ -18,3 +19,4 @@ and **new feature 2**
 
 Привет всем!
 > master
+
