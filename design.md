@@ -1,2 +1,2 @@
-real design
-version 1.0
+real good design
+version 1.1
