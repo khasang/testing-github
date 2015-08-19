@@ -1,2 +1,5 @@
 real good design
-version 1.1
+version 1.2
+
+#some nuew feature
+and new
